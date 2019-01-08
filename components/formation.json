@@ -1,0 +1,56 @@
+{
+	"formation":[
+		{
+			"periode":"2012-2016",
+			"diplome":"Licence: Gestion d'information"
+		},
+		{
+			"periode":"2016-2017",
+			"diplome":"Diplome d'Universiteé: langue française B1/B2"
+		},
+		{
+			"periode":"2017-2019",
+			"diplome":"L3 MIAGE(Méthodes informatiques appliquées à la gestion des entreprises)"
+		}
+	],
+	"experience":[
+		{
+			"annee":"2016",
+			"duree":"1 mois",
+			"lieu":"TMT Media  Pékin, Chine",
+			"titre":"Developpeur Web"
+		},
+		{
+			"annee":"2018",
+			"duree":"2 mois",
+			"lieu":"Webiaprod  Grenoble, France",
+			"titre":"Developpeur Web junior"
+		}
+	],
+	"gallery":[
+		{
+			"path":"",
+			"name":"Suéde"
+		},
+		{
+			"path":"/assets/img/maroc.jpg",
+			"name":"Maroc"
+		},
+		{
+			"path":"",
+			"name":"Suisse"
+		},
+		{
+			"path":"",
+			"name":"Italie"
+		},
+		{
+			"path":"",
+			"name":"Espagne"
+		},
+		{
+			"path":"",
+			"name":"Chine"
+		}
+	]
+}
